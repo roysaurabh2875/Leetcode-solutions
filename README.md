@@ -7,4 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0511-game-play-analysis-i](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0511-game-play-analysis-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
