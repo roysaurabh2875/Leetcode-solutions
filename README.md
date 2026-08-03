@@ -40,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0877-stone-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0877-stone-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0877-stone-game) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
