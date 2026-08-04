@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -138,4 +139,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1518-water-bottles](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 <!---LeetCode Topics End-->
