@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1518-water-bottles](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1518-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0202-happy-number) |
+## Simulation
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1518-water-bottles) |
 <!---LeetCode Topics End-->
