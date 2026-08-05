@@ -146,4 +146,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
