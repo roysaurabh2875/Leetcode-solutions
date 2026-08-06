@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0204-count-primes) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Primality Test
 |  |
 | ------- |
