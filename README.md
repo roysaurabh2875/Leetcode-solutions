@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0577-employee-bonus) |
 | [1084-sales-analysis-iii](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1084-sales-analysis-iii) |
+| [1148-article-views-i](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1148-article-views-i) |
 ## Divide and Conquer
 |  |
 | ------- |
