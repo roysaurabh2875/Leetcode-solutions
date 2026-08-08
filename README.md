@@ -33,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
 | ------- |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0202-happy-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
 | ------- |
