@@ -3,7 +3,11 @@ class Solution {
         if (s.length() != goal.length())
             return false;
         String temp = s+s ;
-        if(temp.contains(goal))return true ;
+        for (int i = 1; i <= s.length(); i++) {
+            if(goal.equals(temp.substring(i,i+s.length()))){
+                return true ;
+            }
+        }
         return false ;
     }
 }
