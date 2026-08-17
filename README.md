@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [1528-shuffle-string](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1528-shuffle-string) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0046-permutations](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
