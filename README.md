@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [1154-day-of-the-year](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1154-day-of-the-year) |
 | [1528-shuffle-string](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1528-shuffle-string) |
+| [1556-thousand-separator](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1556-thousand-separator) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
