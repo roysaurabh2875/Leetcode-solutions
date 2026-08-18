@@ -23,8 +23,7 @@ class Solution {
         }
         n = n - 1;
         if(map.get(nums[0]) == 1 && map.get(nums[n])==1){
-            int largest = Math.max(nums[0],nums[n]);
-            return largest ;
+            return Math.max(nums[0],nums[n]);
         }
         if((map.get(nums[0]) > 1 && map.get(nums[n]) == 1) || (map.get(nums[0]) == 1)&&map.get(nums[n])>1){
             if(map.get(nums[0]) > 1) return nums[n];
