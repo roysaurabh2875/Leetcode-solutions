@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [1528-shuffle-string](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0204-count-primes) |
+| [0412-fizz-buzz](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1140-stone-game-ii) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1518-water-bottles](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
