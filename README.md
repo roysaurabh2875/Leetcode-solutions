@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1386-cinema-seat-allocation](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1386-cinema-seat-allocation](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1386-cinema-seat-allocation](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1528-shuffle-string](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1563-stone-game-v](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1563-stone-game-v) |
