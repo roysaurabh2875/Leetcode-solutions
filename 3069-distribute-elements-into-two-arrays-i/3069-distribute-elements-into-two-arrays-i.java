@@ -1,6 +1,5 @@
 class Solution {
     public int[] resultArray(int[] nums) {
-        if(nums.length <= 2) return nums ;
         List<Integer> l1 = new ArrayList<>() ;
         List<Integer> l2 = new ArrayList<>() ;
         l1.add(nums[0]);
