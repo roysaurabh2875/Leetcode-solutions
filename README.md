@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0620-not-boring-movies) |
 | [1084-sales-analysis-iii](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1084-sales-analysis-iii) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1148-article-views-i) |
 ## Divide and Conquer
 |  |
