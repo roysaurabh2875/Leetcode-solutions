@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0115-distinct-subsequences](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0486-predict-the-winner](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0486-predict-the-winner) |
