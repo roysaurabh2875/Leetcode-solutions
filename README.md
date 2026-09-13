@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0486-predict-the-winner](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
