@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0018-4sum) |
 | [0046-permutations](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0344-reverse-string) |
