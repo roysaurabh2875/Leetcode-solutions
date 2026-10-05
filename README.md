@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [1096-brace-expansion-ii](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0018-4sum) |
 | [0046-permutations](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0075-sort-colors) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0202-happy-number) |
