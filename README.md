@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0175-combine-two-tables) |
 | [0178-rank-scores](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0178-rank-scores) |
+| [0180-consecutive-numbers](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0184-department-highest-salary](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0184-department-highest-salary) |
 | [0511-game-play-analysis-i](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0511-game-play-analysis-i) |
