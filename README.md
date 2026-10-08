@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0184-department-highest-salary](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0184-department-highest-salary) |
+| [0262-trips-and-users](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0584-find-customer-referee) |
