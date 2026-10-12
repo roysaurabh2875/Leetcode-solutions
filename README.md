@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0018-4sum) |
 | [0046-permutations](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0412-fizz-buzz) |
