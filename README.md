@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
