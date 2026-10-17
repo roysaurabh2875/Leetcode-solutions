@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2029-stone-game-ix](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
