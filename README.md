@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
 |  |
 | ------- |
