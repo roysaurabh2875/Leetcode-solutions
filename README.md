@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0075-sort-colors) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0086-partition-list) |
 | [0202-happy-number](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0202-happy-number) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -563,4 +567,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
