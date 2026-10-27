@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/roysaurabh2875/Leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
